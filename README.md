@@ -5,7 +5,7 @@ Systems engineer focused on LLM infrastructure — multi-agent orchestration, co
 ## Projects
 
 ### [Mahoraga](https://github.com/pockanoodles/Mahoraga)
-Agent-agnostic LLM orchestrator. Routes tasks across local Ollama workers, Claude API, Codex CLI, and Aider using capability scoring, quality-evaluated escalation, and per-agent cost tracking. Python/FastAPI backend, vanilla JS frontend with real-time task visualization.
+Agent-agnostic LLM orchestrator with LinUCB bandit routing. Routes tasks to the optimal agent (Ollama, Codex CLI, Aider, Gemini CLI, Goose, OpenCode) using contextual multi-armed bandits that learn from every decision. Python · 16GB MacBook Pro.
 
 ### [obrain](https://github.com/pockanoodles/obrain)
 LLM-powered knowledge base system. AI maintains a structured markdown wiki from raw documents — searchable via MCP from Claude Desktop, Claude Code, or any MCP-compatible client. Three.js 3D knowledge graph.
