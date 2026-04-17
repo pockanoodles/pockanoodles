@@ -1,6 +1,6 @@
 # Kaito Soeno
 
-Systems engineer focused on LLM infrastructure. Experience in multi-agent orchestration, consumer hardware inference, knowledge pipelines. Building from scratch to understand the stack. Studying Business Analytics and PPE (Politics, Philosophy and Economics). 
+Systems engineer focused on LLM infrastructure. Experience in multi-agent orchestration, consumer hardware inference, knowledge pipelines. Building from scratch to understand the stack. Currently studying Business Analytics and PPE (Politics, Philosophy and Economics). 
 
 ## Projects
 
@@ -16,4 +16,5 @@ Python · JavaScript · SwiftUI · FastAPI · Ollama · Anthropic SDK · MCP · 
 
 ## Currently
 
-Building MCP integration and multi-user support for Mahoraga. Open to engineering roles focused on LLM infrastructure and developer tooling — [github.com/pockanoodles](https://github.com/pockanoodles). In need of credits. 
+Building MCP integration and multi-user support for Mahoraga. Open to engineering roles focused on LLM infrastructure and developer tooling.
+Always need of credits and food. 
