@@ -15,7 +15,7 @@ Python · JavaScript · SwiftUI · FastAPI · Ollama · Anthropic SDK · MCP · 
 
 ## Currently
 
-Working on gathering data w/ Maho. Open to engineering roles focused on LLM infrastructure and developer tooling.
-Always in need of credits and food. 
+Model training/Bandit research with Mahoraga.
+Open to any roles. Always in need of credits and food. 
 
 soenokaito1@gmail.com
